@@ -152,3 +152,4 @@ These trends and landmarks highlight the transformative impact of AI on precisio
 1. Tempus official website: [Tempus](https://www.tempus.com/)
 2. Articles and press releases on Tempus from reputable sources such as Forbes, TechCrunch, and healthcare journals.
 3. Reports on AI in the medical field from various reputable sources, including Mayo Clinic, AMA, IBM, NAM, and GAO.
+4. Leveraged Co-Pilot for compiling and aggregating research
