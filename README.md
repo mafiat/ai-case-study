@@ -90,7 +90,7 @@ These trends and landmarks highlight the transformative impact of AI on precisio
 - **Focus on Precision Medicine:** Tempus is dedicated to advancing precision medicine in oncology, driving innovation and improving patient outcomes.
 
 
-## Testimonials
+## Quotes from Leadership
 
 > “Having spent my entire career at the forefront of emerging technologies, it’s exciting to see how healthcare is finally embracing the very technologies that have transformed so many other industries. This is a space that is near and dear to me, and I'm excited to be a part of Tempus as they seek to bring big data, artificial intelligence and advanced molecular analysis to those suffering with cancer and other life-threatening diseases."
 >
