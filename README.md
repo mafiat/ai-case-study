@@ -12,11 +12,9 @@ Tempus is funded through a mix of venture capital and private investments. The c
 
 Tempus is addressing the problem of data fragmentation in healthcare. There is a vast amount of patient data being generated, but it is often unstructured and not utilized effectively. Tempus aims to aggregate and analyze clinical and molecular data to provide personalized treatment options for cancer patients.
 
-Tempus primarily serves oncologists and healthcare institutions. Their market includes cancer treatment centers, research institutions, and pharmaceutical companies. The global oncology market is projected to reach $244 billion by 2026.
+Primarily serves oncologists and healthcare institutions. Their market includes cancer treatment centers, research institutions, and pharmaceutical companies. The global oncology market is projected to reach $244 billion by 2026.
 
-Tempus offers a unique platform that combines clinical data, molecular data, and machine learning to provide insights into personalized cancer care. Their competitive advantage lies in their ability to integrate vast amounts of data from various sources and use advanced AI algorithms to generate actionable insights.
-
-Tempus leverages AI in several innovative ways to enhance precision medicine and improve patient care:
+Tempus offers a unique platform that combines clinical data, molecular data, and machine learning to provide insights into personalized cancer care. Their competitive advantage lies in their ability to integrate vast amounts of data from various sources and use advanced AI algorithms to generate actionable insights and leverages AI in several innovative ways to enhance precision medicine and improve patient care:
 
 1. **Genetic Testing and Diagnostics**: Tempus uses AI algorithms to analyze genetic data, helping to identify specific genetic markers and mutations that can influence a patient's response to treatments. This allows for more personalized and effective treatment plans.
 
