@@ -26,20 +26,6 @@
 - **Genomics**: For sequencing and analyzing genetic information.
 - **Data Integration**: To combine data from multiple sources for a comprehensive view.
 
-Tempus leverages AI in several innovative ways to enhance precision medicine and improve patient care:
-
-1. **Genetic Testing and Diagnostics**: Tempus uses AI algorithms to analyze genetic data, helping to identify specific genetic markers and mutations that can influence a patient's response to treatments. This allows for more personalized and effective treatment plans.
-
-2. **Multimodal Data Integration**: By combining data from various sources such as pathology and radiology images, genomics, and clinical records, Tempus' AI can provide comprehensive insights into a patient's health. This integration helps in making more accurate diagnoses and treatment recommendations.
-
-3. **Cardiology**: Tempus has developed AI algorithms to assist in diagnosing and managing cardiovascular conditions. For example, AI can analyze ECG data to detect conditions like atrial fibrillation and pulmonary hypertension earlier than traditional methods.
-
-4. **Clinical Workflow Optimization**: Tempus' AI tools are designed to fit seamlessly into existing clinical workflows, providing actionable insights without adding complexity. This helps clinicians make quicker and more informed decisions.
-
-5. **Research and Development**: Tempus uses AI to support clinical research by identifying patient cohorts for clinical trials and predicting patient responses to new therapies. This accelerates the development of new treatments and ensures they are tailored to the needs of specific patient populations.
-
-Overall, Tempus' AI-driven approach aims to make healthcare more proactive, personalized, and efficient, ultimately improving patient outcomes.
-
 ## Landscape
 
 **Field:** Precision Medicine in Oncology
